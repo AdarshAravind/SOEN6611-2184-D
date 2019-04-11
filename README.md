@@ -38,3 +38,24 @@
 3. For calculating metric 4, MetricsReloaded, a plugin in IntelliJ.
 
 #### Note: Apart from these tools, we also used SciTools and Jira reports for metric 5 and 6.
+
+# Statement and Branch Coverage Result
+[Apache Commons Collections]
+[Apache Commons Configuration]
+[Apache Commons FileUpload]
+[Apache Commons IO]
+[JFreeChart]
+
+# Mutation Coverage Result
+[Apache Commons Collections]
+[Apache Commons Configuration]
+[Apache Commons FileUpload]
+[Apache Commons IO]
+[JFreeChart]
+
+# McCabe Code Complexity Result
+[Apache Commons Collections]
+[Apache Commons Configuration]
+[Apache Commons FileUpload]
+[Apache Commons IO]
+[JFreeChart]
