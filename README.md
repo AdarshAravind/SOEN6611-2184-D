@@ -40,22 +40,22 @@
 #### Note: Apart from these tools, we also used SciTools and Jira reports for metric 5 and 6.
 
 # Statement and Branch Coverage Result
-[Apache Commons Collections]
-[Apache Commons Configuration]
-[Apache Commons FileUpload]
-[Apache Commons IO]
-[JFreeChart]
+* [Apache Commons Collections]
+* [Apache Commons Configuration]
+* [Apache Commons FileUpload]
+* [Apache Commons IO]
+* [JFreeChart]
 
 # Mutation Coverage Result
-[Apache Commons Collections]
-[Apache Commons Configuration]
-[Apache Commons FileUpload]
-[Apache Commons IO]
-[JFreeChart]
+* [Apache Commons Collections]
+* [Apache Commons Configuration]
+* [Apache Commons FileUpload]
+* [Apache Commons IO]
+* [JFreeChart]
 
 # McCabe Code Complexity Result
-[Apache Commons Collections]
-[Apache Commons Configuration]
-[Apache Commons FileUpload]
-[Apache Commons IO]
-[JFreeChart]
+* [Apache Commons Collections]
+* [Apache Commons Configuration]
+* [Apache Commons FileUpload]
+* [Apache Commons IO]
+* [JFreeChart]
