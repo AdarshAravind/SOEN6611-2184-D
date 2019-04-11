@@ -58,4 +58,4 @@
 * [Apache Commons Configuration]
 * [Apache Commons FileUpload]
 * [Apache Commons IO]
-* [JFreeChart]
+* [JFreeChart](http://www.echoecho.com/htmllinks01.htm)
