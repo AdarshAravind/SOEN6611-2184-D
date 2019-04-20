@@ -5,18 +5,18 @@
 # Team - J
 |Student Name              |Student ID   |Email Address            |
 |:------------------------:|:-----------:|:-----------------------:|
-| Sravan Kumar Thumati     | 40070088    |tumati.sravan@gmail.com  |
+|Sravan Kumar Thumati      |40070088     |tumati.sravan@gmail.com  |
 |Naren Morabagal Somasekhar|40082567     |narenms96@gmail.com      |  
 |Adarsh Aravind            |40082585     |arvindadarsh891@gmail.com|
 |Kundana Gangam            |40085658     |kundanagangam@gmail.com  |
 |Emmanuel Ambele           |40050295     |etambele@gmail.com       |
 
 # Open Source Projects: (Java Based)
-* Apache Commons Configuration - Version 2.4 
-* Apache Commons Collections - Version 4-4.2 
-* JFreeChart - Version 1.5.0 
-* Apache Commons IO - Version 2.6 
-* Apache Commons FileUpload - Version 1.4 
+* Apache Commons Configuration - Version 2.4 [https://commons.apache.org/proper/commons-configuration/]
+* Apache Commons Collections - Version 4-4.2 [https://commons.apache.org/proper/commons-collections/]
+* JFreeChart - Version 1.5.0 [https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/]
+* Apache Commons IO - Version 2.6 [https://commons.apache.org/proper/commons-io/]
+* Apache Commons FileUpload - Version 1.4 [https://commons.apache.org/proper/commons-fileupload/]
 
 # Selected Metrics:
 - Statement Coverage
@@ -38,24 +38,4 @@
 3. For calculating metric 4, MetricsReloaded, a plugin in IntelliJ.
 
 #### Note: Apart from these tools, we also used SciTools and Jira reports for metric 5 and 6.
-
-# Statement and Branch Coverage Result
-* [Apache Commons Collections]
-* [Apache Commons Configuration]
-* [Apache Commons FileUpload]
-* [Apache Commons IO]
-* [JFreeChart]
-
-# Mutation Coverage Result
-* [Apache Commons Collections]
-* [Apache Commons Configuration]
-* [Apache Commons FileUpload]
-* [Apache Commons IO]
-* [JFreeChart]
-
-# McCabe Code Complexity Result
-* [Apache Commons Collections]
-* [Apache Commons Configuration]
-* [Apache Commons FileUpload]
-* [Apache Commons IO]
-* [JFreeChart]
+#### We used Eclipse IDE for building the projects, and Jupyter Notebook for Spearman correlation calculation.
