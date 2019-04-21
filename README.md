@@ -12,11 +12,13 @@
 |Emmanuel Ambele           |40050295     |etambele@gmail.com       |
 
 # Open Source Projects: (Java Based)
-* Apache Commons Configuration - Version 2.4 [https://commons.apache.org/proper/commons-configuration/]
-* Apache Commons Collections - Version 4-4.2 [https://commons.apache.org/proper/commons-collections/]
-* JFreeChart - Version 1.5.0 [https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/]
-* Apache Commons IO - Version 2.6 [https://commons.apache.org/proper/commons-io/]
-* Apache Commons FileUpload - Version 1.4 [https://commons.apache.org/proper/commons-fileupload/]
+|Project Name                      |Version      |Link to download                                                  |
+|:--------------------------------:|:-----------:|:----------------------------------------------------------------:|
+|Apache Commons Configuration      |Version 2.4  |https://commons.apache.org/proper/commons-configuration/          |
+|Apache Commons Collections        |Version 4-4.2|https://commons.apache.org/proper/commons-collections/            |  
+|JFreeChart                        |Version 1.5.0|https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/|
+|Apache Commons IO                 |Version 2.6  |https://commons.apache.org/proper/commons-io/                     |
+|Apache Commons FileUpload         |Version 1.4  |https://commons.apache.org/proper/commons-fileupload/             |
 
 # Selected Metrics:
 - Statement Coverage
